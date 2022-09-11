@@ -1,0 +1,7 @@
+*.log
+static/dir
+/dir/
+db.accdb
+mypanda
+
+
